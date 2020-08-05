@@ -3,12 +3,12 @@
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
-		"docpad": "6.x",
-		"docpad-plugin-eco": "2.x",
-		"docpad-plugin-coffeescript": "2.x",
-		"docpad-plugin-stylus": "2.x"
+		"docpad": "^6.83.1",
+		"docpad-plugin-eco": "^2.5.0",
+		"docpad-plugin-coffeescript": "^2.0.0",
+		"docpad-plugin-stylus": "^2.0.0"
 	},
 	"devDependencies": {
-		"docpad-plugin-livereload": "2.x"
+		"docpad-plugin-livereload": "^2.0.0"
 	}
 }
